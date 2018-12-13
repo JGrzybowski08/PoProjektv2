@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" fx:controller="sample.Java.glownaController" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="102.0" layoutY="77.0" mnemonicParsing="false" onAction="#menuStanMagazynowy" text="Stan Magazynowy" />
+      <Button layoutX="102.0" layoutY="130.0" mnemonicParsing="false" onAction="#menuRejestracja" text="Rejestracja" />
+   </children>
+</Pane>
